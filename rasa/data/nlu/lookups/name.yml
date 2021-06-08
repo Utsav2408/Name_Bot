@@ -1,0 +1,9 @@
+version: "2.0"
+nlu:
+  - lookup: distributor
+    examples: |
+      - Utsav Vora
+      - Harsh Goyal
+      - Hrishav Dasgupta
+      - Anand Kumar
+      - Jay Leena
